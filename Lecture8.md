@@ -5,7 +5,6 @@
 Делегати дозволяють передавати методи як параметри, зберігати їх у змінних та викликати динамічно.
 
 ### 1.1 Власний делегат (Custom Delegate)
-```csharp
 public delegate double Operation(double x, double y);
 
 public class Calculator
